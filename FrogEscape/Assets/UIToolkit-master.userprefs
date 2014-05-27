@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\--FrogEscape\Store.cs">
+    <Files>
+      <File FileName="Assets\--FrogEscape\Store.cs" Line="15" Column="84" />
+      <File FileName="Assets\Plugins\UIToolkit\BaseElements\UISpriteManager.cs" Line="103" Column="1" />
+      <File FileName="Assets\Plugins\UIToolkit\UI.cs" Line="9" Column="25" />
+      <File FileName="Assets\Plugins\UIToolkit\UIToolkit.cs" Line="123" Column="1" />
+      <File FileName="Assets\Plugins\UIToolkit\UIElements\UIButton.cs" Line="52" Column="25" />
+      <File FileName="Assets\Plugins\UIToolkit\BaseElements\UITouchableSprite.cs" Line="5" Column="16" />
+      <File FileName="Assets\Plugins\UIToolkit\Structs\UIEdgeOffsets.cs" Line="6" Column="6" />
+      <File FileName="Assets\DemoSceneScripts\StateButtonManager.cs" Line="37" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

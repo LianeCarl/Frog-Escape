@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: b1ac445eababfec4fbead36486b67c39
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - frogBubbles: {fileID: 100000, guid: dd8066ec12bb3674cbda2cf5e9fef3a4, type: 2}
+  - crocodileBubbles: {fileID: 100000, guid: bf5ee6ad53e6c944686838ab37da77a3, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

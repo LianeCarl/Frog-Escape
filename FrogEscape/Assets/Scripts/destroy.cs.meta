@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 57c345bfed0b1174f834ad7b05606ead
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - obj: {fileID: 100002, guid: 1c1a4e2e736d4eb4595e4e100f15b606, type: 2}
+  - SFXA: {fileID: 8300000, guid: 2cada80a0dd1e4e76886b89e351c6325, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

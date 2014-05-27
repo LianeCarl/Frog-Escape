@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d8c08fa3ca292764882e521b207b93c5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Click: {fileID: 8300000, guid: 2cada80a0dd1e4e76886b89e351c6325, type: 3}
+  - BMXA: {fileID: 8300000, guid: 71ee487b8897ea94b9de78d39bf7c91e, type: 3}
+  - SFXA: {fileID: 8300000, guid: 71ee487b8897ea94b9de78d39bf7c91e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

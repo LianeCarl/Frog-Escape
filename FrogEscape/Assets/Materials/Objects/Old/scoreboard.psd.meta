@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: c29c0836b48f9194abce174b4a15934e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: scoreboard_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 883
+        width: 1446
+        height: 354
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: scoreboard_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 729
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: scoreboard_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 646
+        width: 184
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: scoreboard_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 645
+        width: 164
+        height: 186
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: scoreboard_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 645
+        width: 240
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: scoreboard_5
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 637
+        width: 168
+        height: 202
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: scoreboard_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1249
+        width: 143
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
